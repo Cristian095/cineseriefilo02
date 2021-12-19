@@ -1,0 +1,71 @@
+.navbar{
+    background-color: yellow;
+    font-family:fantasy;
+    border-style: double;
+    position: relative;
+}
+
+a:hover{
+    color: white;
+}
+
+.navbar-brand{
+   color: black;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link:hover{
+    color: white;
+
+}
+
+body{
+    background-color: turquoise;
+    position: relative;
+}
+
+
+
+.series{
+    background-color: white;
+    width: 1600px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 30px;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-style: solid;
+    position: relative;
+}
+
+.card{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+
+.titulo{
+    background-color: yellow;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-style:double;
+    position: relative;
+   
+}
+
+
+
+.page-footer{
+    background-color: #3F729B;
+    position:relative;
+    border-style: groove;
+    
+    
+}
